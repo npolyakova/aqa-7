@@ -9,6 +9,6 @@ public class Main {
     }
 
     public String returnStringWithNumber(int number, int number2) {
-        return "number " + number;
+        return "number " + number + number2;
     }
 }
